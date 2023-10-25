@@ -7,4 +7,4 @@ from dotenv import load_dotenv, find_dotenv # .env file variable create in your 
 
 _ = load_dotenv(find_dotenv()) # variable intialize
 
-openai.api_key  = os.getenv('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')#
+openai.api_key  = os.getenv('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')#
